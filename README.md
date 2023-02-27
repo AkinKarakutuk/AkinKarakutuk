@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://rishavchanda.io)
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Akın Karakütük</h1>
 <p align="center">I am a computer engineer who graduated from Ondokuz Mayıs University Computer Engineering department and loves to deal with C#, Javascript and React.js. I am currently working on web development.</p>
 <h3 align="center">A passionate web developer from Turkey</h3>
