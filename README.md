@@ -1,6 +1,6 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Akın Karakütük</h1>
-<p align="center">I am a computer engineer who graduated from Ondokuz Mayıs University Computer Engineering department and loves to deal with Java, Api Testing, SQL and Appium. I am currently working on test automation.</p>
+<p align="center">I am a computer engineer who graduated from Ondokuz Mayıs University Computer Engineering department and loves to deal with Java, Api Testing, SQL and Appium. I am currently working on Test Automation.</p>
 <h3 align="center">A passionate Test Automation Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
